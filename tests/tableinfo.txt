@@ -1,0 +1,22 @@
+#   1 NUMBER          Running object number                          
+#   2 X_IMAGE         Object position along x                         [pixel]
+#   3 Y_IMAGE         Object position along y                         [pixel]
+#   4 XWIN_IMAGE      Windowed position estimate along x              [pixel]
+#   5 YWIN_IMAGE      Windowed position estimate along y              [pixel]
+#   6 ERRA_IMAGE      RMS position error along major axis             [pixel]
+#   7 ERRB_IMAGE      RMS position error along minor axis             [pixel]
+#   8 ERRTHETA_IMAGE  Error ellipse position angle (CCW/x)            [deg]
+#   9 ERRAWIN_IMAGE   RMS windowed pos error along major axis         [pixel]
+#  10 ERRBWIN_IMAGE   RMS windowed pos error along minor axis         [pixel]
+#  11 ERRTHETAWIN_IMA Windowed error ellipse pos angle (CCW/x)        [deg]
+#  12 FLUX_AUTO       Flux within a Kron-like elliptical aperture     [count]
+#  13 FLUXERR_AUTO    RMS error for AUTO flux                         [count]
+#  14 FLUX_RADIUS     Fraction-of-light radii                         [pixel]
+#  15 FLAGS           Extraction flags                               
+#  16 X_WORLD         Barycenter position along world x axis          [deg]
+#  17 Y_WORLD         Barycenter position along world y axis          [deg]
+#  18 ERRA_WORLD      World RMS position error along major axis       [pixel]
+#  19 ERRB_WORLD      World RMS position error along minor axis       [pixel]
+#  20 ERRTHETA_WORLD  Error ellipse pos. angle (CCW/world-x)          [deg]
+#  21 MAG_AUTO        Kron-like elliptical aperture magnitude         [mag]
+16777216 -53291.266 -91116843475545415601565179733606400.000     -0.000 307349699760075431388812922027817375939652920697398195801946944149742222959248506166436597853994192930637880781033755037416512993469880496604987726058443408006778454016.000 -1946265714688.0000   0.0000 8616721537997936686198119464960.0 -1946265714688.0000   0.0000 8616721537997936686198119464960.0 -1.564604E-25 -5.698929E+11      0.000   0 9.4846659431E-224 4.2607935437E-231 -1.325251E-17 7.636575E-21  -0.0 41050592084655734783261802496.0000
